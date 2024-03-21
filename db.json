@@ -1,0 +1,16 @@
+{
+    "producto":[
+      {
+        "Email": "Ccellccaro",
+        "Contrasena": "David"
+      },
+      {
+        "Email": "Cristiano",
+        "Contrasena": "Madrid"
+      },
+      {
+        "Email": "Lionel",
+        "Contrasena": "Messi"
+      }
+    ]
+  }
